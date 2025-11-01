@@ -6,6 +6,9 @@ This project explores the global adoption of **electric vehicles (EVs)** using *
 The project leverages data from [Our World in Data](https://ourworldindata.org/electric-car-sales) covering the years **2010–2023**, focusing on how countries have embraced electric mobility over time.
 
 ---
+View The Entire Notebook Analysis Here: https://nbviewer.org/github/BrentOchieng/global-ev-adoption-regression-analysis/blob/main/Predicting_Global_Electric_Vehicle_Adoption_Trends_Using_Regression_Models_%282010%E2%80%932023%29.ipynb
+
+---
 
 ##  Project Objectives
 1. **Predict the percentage share of electric cars sold in a given year** based on the previous year’s sales performance.  
